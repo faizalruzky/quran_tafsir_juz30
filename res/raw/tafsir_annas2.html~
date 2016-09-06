@@ -1,0 +1,90 @@
+<html>
+<head>
+<style type="text/css">
+	body{
+	  background-image:url("file:///android_asset/background3.png");
+	  color:blue;
+	  background-position:50% 50%;
+	  background-repeat:repeat;
+	}
+</style>
+</head>
+<body>
+
+ <h2>Bangun Datar</h2> <align = "Justify">
+  Bangun datar adalah bangunan geometri yang seluruh bagiannya terletak pada satu bidang.
+Macam-macam bangun datar :<br>
+<h4>1. Segitiga </h4><br>
+Segitiga adalah suatu bangun datar yang jumlah sudutnya 1800 dan dibentuk dengan cara
+menghubungkan tiga buah titik yang tidak segaris dalam satu bidang.
+Jenis-jenis Segitiga :<br><br>
+a. Segitiga Sama Sisi<br>
+Segitiga yang ketiga sisinya sama panjang.<br> 
+Panjang AB = BC =CA <br>
+sudut A = sudut B = sudut C = 60 derajat<br>
+sudut A + sudut B + sudut C = 180 derajat <br><br>
+b. Segitiga Sama Kaki<br>
+Segitiga yang mempunyai dua sudut yang sama dan dua buah sisi yang sama.<br>
+Panjang AC = CB<br>
+Sudut  A = sudut B <br>
+sudut A + sudut B + sudut C = 180 derajat <br><br>
+c. Segitiga Siku-siku<br>
+Segitiga yang salah satu sudutnya 90 derajat. <br><br>
+d. Segitiga Sembarang<br>
+- Ketiga sisinya tidak sama panjang ( AB != BC != AC )<br>
+- Ketiga sudutnya tidak sama besar ( A != B != C )<br>
+- sudut A + sudut B + sudut C = 180 derajat.<br>
+<br>
+
+<h4>2. Segi Empat </h4><br>
+Segiempat adalah bangun datar yang dibentuk dengan menghubungkan empat buah titik yang tidak
+segaris. Macam-macam Segiempat :<br><br>
+a. Bujur sangkar (Persegi sama sisi><br>
+Suatu bangunan segi empat yang keempat sisinya sama panjang dan keempat sudutnya siku-siku.<br>
+Panjang :<br>
+AB = BC = CD = DA <br> <br>
+b. Persegi panjang
+Suatu bangunan segi empat yang kedua sisi yang berhadapan sama panjang dan keempat
+sudutnya siku-siku.<br>
+Panjang : <br>
+AB = CD <br>
+BC = DA <br>
+ <br><br>
+c. Jajaran Genjang <br>
+Bangunan segi empat yang sisi sejajarnya sama panjang dan sudut yang berhadapan juga sama
+besar.<br>
+AB sejajar CD ( AB // CD ) <br>
+AD sejajar BC ( AD // BC ) <br>
+sisi yang sejajar sama panjang <br>
+AB = CD ; AD = BC <br>
+ <br><br>
+d. Belah Ketupat<br>
+Suatu bangunan jajaran genjang yang keempat sisinya sama dengan perpotongan diagonalnya
+membentuk sudut siku-siku.<br>
+Panjang AB = BC = CD = DA <br>
+Sudut A = sudut C <br>
+sudut B = sudut D
+<br><br>
+e. Layag-layang<br>
+Suatu bangunan segi empat dimana antara dua sisi yang berhadapan dan berdekatan adalah sama
+besar.<br><br>
+e. Trapesium<br>
+Segiempat yang mempunyai dua sisi (sepasang sisi) yang berhadapan sejajar.<br>
+AB sejajar CD ( AB CD ) <br>
+sudut A + sudut B + sudut C + sudut D = 360 derajat<br><br>
+
+<h4>3. Lingkaran </h4><br>
+Lingkaran <br>
+- suatu himpunan titik yang mempunyai jarak terhadap suatu titik tertentu (pusat).<br>
+- kurva tertutup yang dibentuk dari banyak titik yang berjarak sama terhadap satu
+titik tetentu yang dinamakan pusat lingkaran.<br>
+- Jarak himpunan titik terhadap pusat dinamakan jari-jari.<br>
+- Besar sudut suatu lingkaran adalah 360 derajat. <br>
+Rumus : <br>
+d = diameter <br>
+r = jari-jari <br>
+d = 2 r
+</align> 
+</div>
+</body>
+</html> 

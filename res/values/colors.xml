@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="note">#efeedb</color>
+    <color name="bg_list">#bc5c3a</color>
+   
+     <color name="bg_list2">#ad6045</color>
+    
+    
+    <color name="bg_gr_Splash_start">#073868</color>
+    <color name="bg_gr_Splash_end">#001c37</color>
+    
+    <color name="bg_btn_focus">#004961</color>
+    <color name="bg_btn_state">#147798</color>
+    <color name="bg_btn_press">#00bfff</color>
+    <color name="bg_result_color">#041c3c</color>
+    
+    <color name="font_title">#d4d4d4</color>
+    <color name="font_result">#d1d1d1</color>
+    <color name="font">#5d5d5d</color>
+    <color name="dec_font">#cfcfcf</color>
+</resources>

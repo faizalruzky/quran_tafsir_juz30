@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <!-- Tafsir -->
+    <string name="menu_Jalalayn">Tafsir Jalalyn</string>
+        <string name="menu_IbnKathir">Tafsir Ibn Katsir</string>
+           <string name="menu_IbnAbbas">Tafsir Ibn Abbas</string>
+           
+             <string name="action_pilihan_tafsir">Pilihan Tafsir</string>
+             
+             <!-- Tafsir  Ibn Kathir-->  
+            
+               <string name="tafsir_annas">Tafsir Surat Annas </string>
+                 <string name="tafsir_alfalaq">Tafsir Surat Alfalaq </string>
+                
+</resources>

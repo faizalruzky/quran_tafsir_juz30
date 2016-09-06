@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+   <item
+        android:id="@+id/action_help"
+        android:title="@string/action_help"
+        android:icon="@drawable/ic_action_help"
+        android:menuCategory="system"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+    
+    <item
+    	android:id="@+id/action_overflow"
+    	android:icon="@drawable/ic_action_overflow"
+    	android:title="@string/action_overflow"
+    	android:menuCategory="system"
+    	android:orderInCategory="101"
+    	app:showAsAction="always">
+    	<menu>
+
+        <item
+        	android:id="@+id/action_about"
+        	android:title="@string/action_about"
+       		android:menuCategory="system"
+       		app:showAsAction="always|withText"/>
+        
+    	<item
+        	android:id="@+id/action_exit"
+        	android:title="@string/action_exit"
+       		android:menuCategory="system"
+       		app:showAsAction="always|withText"/>
+    	
+    	</menu>
+	</item>
+    
+</menu>

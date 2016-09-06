@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Name -->
+    <string name="hello">Hello World, tafsirActivity!</string>
+    <string name="app_name">Tafsir Quran Juz 30 </string>
+   
+      <!-- Tentang -->
+<string name="tentang_aplikasi">"Tafsir Quran Juz 30 Merupakan Aplikasi yang berisi Quran juz 30 yang dilengkapi terjemahan bahasa Indonesia dan berbagai macam Tafsir diantaranya Tafsir Ibn Katsir, Ibn Abbas dan Jalalyn. Aplikasi ini untuk mempermudah umat muslim dalam mempelajari Quran beserta penjelasannya. Tafsir Quran Juz 30 ini Memiliki dua tools yaitu baca quran dan  baca tafsir dilain sisi aplikasi ini dapat memilih surat sesuai keinginan. Terimakasih telah menggunakan aplikasi ini. bila anda memiliki malasah atau masukan silahkan contak di faizalruzky@gmail.com"</string>
+	
+          <string name="title_activity_penjelasan"> Tafsir </string>
+    <!-- Action -->
+    <string name="action_about">Tentang</string>
+    <string name="action_help">Bantuan</string>
+    <string name="action_exit">Keluar</string>
+    <string name="action_overflow">Lainnya</string>
+       <string name="menu">Menu</string>
+       <string name="menu_tab_bacaayat">Baca Ayat</string>
+<string name="menu_tab_bacatafsir">Baca Tafsir</string>
+<string name="menu_tab_pencarian">Pencarian</string>
+<string name="add">add</string>
+
+    <!-- Activity Ayat Annas -->
+     <string name="surat_annas">Surat An-Nas</string>
+    <string name="annas_ayat1"> قُلْ أَعُوذُ بِرَبِّ النَّاسِ﴿١﴾</string>
+    <string name="annas_ayat2">مَلِكِ النَّاسِ﴿٢﴾</string>
+    <string name="annas_ayat3">إِلَٰهِ النَّاسِ﴿٣﴾</string>
+    <string name="annas_ayat4">مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ﴿٤﴾</string>
+    <string name="annas_ayat5">الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ﴿٥﴾</string>
+    <string name="annas_ayat6">مِنَ الْجِنَّةِ وَالنَّاسِ﴿٦﴾</string>
+
+    <!-- Activity Arti Annas -->
+    <string name="annas_arti1">Katakanlah: "Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia</string>
+    <string name="annas_arti2">Raja manusia</string>
+    <string name="annas_arti3">Sembahan manusia</string>
+    <string name="annas_arti4">Dari kejahatan (bisikan) syaitan yang biasa bersembunyi,</string>
+    <string name="annas_arti5">yang membisikkan (kejahatan) ke dalam dada manusia,</string>
+    <string name="annas_arti6">dari (golongan) jin dan manusia</string>
+
+     <!-- Activity Ayat Alfalaq -->
+     <string name="surat_alfalaq">Surat Al-Falaq</string>
+      <string name="alfalaq_ayat1">قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ﴿١﴾</string>
+       <string name="alfalaq_ayat2">مِنْ شَرِّ مَا خَلَقَ﴿٢﴾</string>
+        <string name="alfalaq_ayat3">وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ﴿٣﴾</string>
+         <string name="alfalaq_ayat4">وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ﴿٤﴾</string>
+          <string name="alfalaq_ayat5">وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ﴿٥﴾</string>
+     
+      <!-- Activity Arti Alfalaq -->
+    <string name="alfalaq_arti1">Katakanlah: "Aku berlindung kepada Tuhan Yang Menguasai subuh,</string>
+    <string name="alfalaq_arti2">dari kejahatan makhluk-Nya,</string>
+    <string name="alfalaq_arti3">dan dari kejahatan malam apabila telah gelap gulita,</string>
+    <string name="alfalaq_arti4">dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul,</string>
+    <string name="alfalaq_arti5">dan dari kejahatan pendengki bila ia dengki".</string>
+   
+      <!-- Activity Ayat Alikhlas -->
+        <string name="surat_alikhlas">Surat Al-Ikhlas</string>
+      <string name="alikhlas_ayat1">قُلْ هُوَ اللَّهُ أَحَدٌ﴿١﴾</string>
+       <string name="alikhlas_ayat2">لَمْ يَلِدْ وَلَمْ يُولَدْ﴿٣﴾</string>
+        <string name="alikhlas_ayat3">وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ﴿٣﴾</string>
+         <string name="alikhlas_ayat4">وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ﴿٤﴾</string>
+        
+         <!-- Activity Arti Alikhlas -->
+       <string name="alikhlas_arti1">Katakanlah: "Dialah Allah, Yang Maha Esa.</string>
+    <string name="alikhlas_arti2">Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu.</string>
+      <string name="alikhlas_arti3">Dia tiada beranak dan tidak pula diperanakkan,</string> 
+      <string name="alikhlas_arti4">dan tidak ada seorangpun yang setara dengan Dia</string>        
+   
+        <!-- Activity Ayat Al Lahab -->
+         <string name="surat_allahab">Surat Al Lahab</string>
+          <string name="allahab_ayat1">تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ﴿١﴾</string>
+            <string name="allahab_ayat2">مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ﴿٢﴾</string>
+             <string name="allahab_ayat3">سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ﴿٣﴾</string>
+              <string name="allahab_ayat4">وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ﴿٤﴾</string>
+              <string name="allahab_ayat5">فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ﴿٥﴾</string>
+              
+               <!-- Activity Arti Al Lahab -->
+                <string name="allahab_arti1">Binasalah kedua tangan Abu Lahab dan sesungguhnya dia akan binasa.</string>
+                 <string name="allahab_arti2">Tidaklah berfaedah kepadanya harta bendanya dan apa yang ia usahakan.</string>
+                   <string name="allahab_arti3">Kelak dia akan masuk ke dalam api yang bergejolak.</string>
+                     <string name="allahab_arti4">Dan (begitu pula) istrinya, pembawa kayu bakar.</string>
+               <string name="allahab_arti5">Yang di lehernya ada tali dari sabut.</string>
+             
+            <!-- Activity Ayat An Nasr -->
+         <string name="surat_annasr">Surat An Nasr</string>
+          <string name="annasr_ayat1"> إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ﴿١﴾</string>
+            <string name="annasr_ayat2">وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا﴿٢﴾</string>
+             <string name="annasr_ayat3">فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا﴿٣﴾</string>
+                   
+               <!-- Activity Arti An Nasr -->
+                <string name="annasr_arti1">Apabila telah datang pertolongan Allah dan kemenangan,</string>
+                 <string name="annasr_arti2">dan kamu lihat manusia masuk agama Allah dengan berbondong-bondong,</string>
+                   <string name="annasr_arti3">maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia adalah Maha Penerima taubat.</string>
+                    
+       <!-- Activity Ayat Al Kafirun -->
+     <string name="surat_alkafirun">Surat Al Kafirun</string>
+    <string name="alkafirun_ayat1"> قُلْ يَا أَيُّهَا الْكَافِرُونَ﴿١﴾</string>
+    <string name="alkafirun_ayat2">لَا أَعْبُدُ مَا تَعْبُدُونَ﴿٢﴾</string>
+    <string name="alkafirun_ayat3">وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ﴿٣﴾</string>
+    <string name="alkafirun_ayat4">وَلَا أَنَاْ عَابِدٌ مَا عَبَدْتُمْ﴿٤﴾</string>
+    <string name="alkafirun_ayat5">وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ﴿٥﴾</string>
+    <string name="alkafirun_ayat6">لَكُمْ دِينُكُمْ وَلِيَ دِينِ﴿٦﴾</string>
+
+    <!-- Activity Arti Al Kafirun -->
+    <string name="alkafirun_arti1">Katakanlah: "Hai orang-orang kafir,</string>
+    <string name="alkafirun_arti2">Aku tidak akan menyembah apa yang kamu sembah.</string>
+    <string name="alkafirun_arti3">Dan kamu bukan penyembah Tuhan yang aku sembah.</string>
+    <string name="alkafirun_arti4">Dan aku tidak pernah menjadi penyembah apa yang kamu sembah,</string>
+    <string name="alkafirun_arti5">dan kamu tidak pernah (pula) menjadi penyembah Tuhan yang aku sembah.</string>
+    <string name="alkafirun_arti6">Untukmu agamamu, dan untukkulah, agamaku".</string>         
+ 
+     <!-- Activity Ayat Al Kautsar -->
+         <string name="surat_alkautsar">Surat Al Kautsar</string>
+          <string name="alkautsar_ayat1"> إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ﴿١﴾</string>
+            <string name="alkautsar_ayat2">فَصَلِّ لِرَبِّكَ وَانْحَرْ﴿٢﴾</string>
+             <string name="alkautsar_ayat3">إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ﴿٣﴾</string>
+                   
+               <!-- Activity Arti Al Kautsar -->
+                <string name="alkautsar_arti1">Sesungguhnya Kami telah memberikan kepadamu nikmat yang banyak.</string>
+                 <string name="alkautsar_arti2">Maka dirikanlah shalat karena Tuhanmu; dan berkorbanlah.</string>
+                   <string name="alkautsar_arti3">Sesungguhnya orang-orang yang membenci kamu dialah yang terputus.</string>
+      
+     <!-- Activity Ayat Al Ma'un -->
+     <string name="surat_almaun">Surat Al Maun</string>
+    <string name="almaun_ayat1"> أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ﴿١﴾</string>
+    <string name="almaun_ayat2">فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ﴿٢﴾</string>
+    <string name="almaun_ayat3">وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ﴿٣﴾</string>
+    <string name="almaun_ayat4">فَوَيْلٌ لِلْمُصَلِّينَ﴿٤﴾</string>
+    <string name="almaun_ayat5">الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ﴿٥﴾</string>
+    <string name="almaun_ayat6">لَّذِينَ هُمْ يُرَاءُونَ﴿٦﴾</string>
+    <string name="almaun_ayat7">وَيَمْنَعُونَ الْمَاعُونَ﴿٧﴾</string>
+
+    <!-- Activity Arti Al Ma'un -->
+    <string name="almaun_arti1">Tahukah kamu (orang) yang mendustakan agama?</string>
+    <string name="almaun_arti2">Itulah orang yang menghardik anak yatim,</string>
+    <string name="almaun_arti3">dan tidak menganjurkan memberi makan orang miskin.</string>
+    <string name="almaun_arti4">Maka kecelakaanlah bagi orang-orang yang shalat,</string>
+    <string name="almaun_arti5">(yaitu) orang-orang yang lalai dari shalatnya,</string>
+    <string name="almaun_arti6">orang-orang yang berbuat riya,</string> 
+    <string name="almaun_arti7">dan enggan (menolong dengan) barang berguna.</string>         
+ 
+ <!-- Activity Ayat Al Quraisy -->
+        <string name="surat_alquraisy">Surat Al Quraisy</string>
+      <string name="alquraisy_ayat1"> لِإِيلَافِ قُرَيْشٍ﴿١﴾</string>
+       <string name="alquraisy_ayat2">إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ﴿٢﴾</string>
+        <string name="alquraisy_ayat3">فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ﴿٣﴾</string>
+         <string name="alquraisy_ayat4">الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ﴿٤﴾</string>
+        
+         <!-- Activity Arti Al Quraisy -->
+       <string name="alquraisy_arti1">Karena kebiasaan orang-orang Quraisy,</string>
+    <string name="alquraisy_arti2">(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.</string>
+      <string name="alquraisy_arti3">Maka hendaklah mereka menyembah Tuhan Pemilik rumah ini (Kabah).</string> 
+      <string name="alquraisy_arti4">Yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari ketakutan.</string>        
+
+ <!-- Activity Ayat Al Fiil -->
+     <string name="surat_alfiil">Surat Al Fiil</string>
+      <string name="alfiil_ayat1"> أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ﴿١﴾</string>
+       <string name="alfiil_ayat2">أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ﴿٢﴾</string>
+        <string name="alfiil_ayat3">وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ﴿٣﴾</string>
+         <string name="alfiil_ayat4">تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ﴿٤﴾</string>
+          <string name="alfiil_ayat5">فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ﴿٥﴾</string>
+     
+     <!-- Activity Arti Alfiil -->
+    <string name="alfiil_arti1">Apakah kamu tidak memperhatikan bagaimana Tuhanmu telah bertindak terhadap tentara bergajah?</string>
+    <string name="alfiil_arti2">Bukankah Dia telah menjadikan tipu daya mereka (untuk menghancurkan Kabah) itu sia-sia?</string>
+    <string name="alfiil_arti3">dan Dia mengirimkan kapada mereka burung yang berbondong-bondong,</string>
+    <string name="alfiil_arti4">yang melempari mereka dengan batu (berasal) dari tanah yang terbakar,</string>
+    <string name="alfiil_arti5">lalu Dia menjadikan mereka seperti daun-daun yang dimakan (ulat).</string>
+
+<!-- Activity Ayat Al Humazah -->
+     <string name="surat_alhumazah">Surat Al Humazah</string>
+    <string name="alhumazah_ayat1">وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ﴿١﴾</string>
+    <string name="alhumazah_ayat2">الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ﴿٢﴾</string>
+    <string name="alhumazah_ayat3">يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ﴿٣﴾</string>
+    <string name="alhumazah_ayat4">كَلَّا ۖ لَيُنْبَذَنَّ فِي الْحُطَمَةِ﴿٤</string>
+    <string name="alhumazah_ayat5">وَمَا أَدْرَاكَ مَا الْحُطَمَةُ﴿٥﴾</string>
+    <string name="alhumazah_ayat6">نَارُ اللَّهِ الْمُوقَدَةُ﴿٦﴾</string>
+    <string name="alhumazah_ayat7">الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ﴿٧﴾</string>
+    <string name="alhumazah_ayat8">إِنَّهَ عَلَيْهِمْ مُؤْصَدَةٌ﴿٨﴾</string>
+    <string name="alhumazah_ayat9">فِي عَمَدٍ مُمَدَّدَةٍ﴿٩﴾</string>
+
+    <!-- Activity Arti Al HUmazah -->
+    <string name="alhumazah_arti1">Kecelakaanlah bagi setiap pengumpat lagi pencela,</string>
+    <string name="alhumazah_arti2">yang mengumpulkan harta dan menghitung-hitung,</string>
+    <string name="alhumazah_arti3">dia mengira bahwa hartanya itu dapat mengkekalkannya,</string>
+    <string name="alhumazah_arti4">sekali-kali tidak! Sesungguhnya dia benar-benar akan dilemparkan ke dalam Huthamah.</string>
+    <string name="alhumazah_arti5">Dan tahukah kamu apa Huthamah itu?</string>
+    <string name="alhumazah_arti6">(yaitu) api (yang disediakan) Allah yang dinyalakan,</string> 
+    <string name="alhumazah_arti7">yang (membakar) sampai ke hati.</string> 
+    <string name="alhumazah_arti8">Sesungguhnya api itu ditutup rapat atas mereka,</string> 
+    <string name="alhumazah_arti9">(sedang mereka itu) diikat pada tiang-tiang yang panjang.</string>                 
+    
+     <!-- Activity Ayat Al ashr -->
+         <string name="surat_alashr">Surat Al Ashr</string>
+          <string name="alashr_ayat1">وَالْعَصْرِ﴿١﴾</string>
+            <string name="alashr_ayat2">إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ﴿٢﴾</string>
+             <string name="alashr_ayat3">إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ﴿٣﴾</string>
+                   
+               <!-- Activity Arti al ashr -->
+                <string name="alashr_arti1">Demi masa.</string>
+                 <string name="alashr_arti2">Sesungguhnya manusia itu benar-benar dalam kerugian,</string>
+                   <string name="alashr_arti3">kecuali orang-orang yang beriman dan mengerjakan amal saleh dan nasehat menasehati supaya mentaati kebenaran dan nasehat menasehati supaya menetapi kesabaran.</string> 
+   
+                   <!-- Activity Ayat At Takatsur -->
+     <string name="surat_attakatsur">Surat At Takatsur</string>
+    <string name="attakatsur_ayat1">أَلْهَاكُمُ التَّكَاثُرُ﴿١﴾</string>
+    <string name="attakatsur_ayat2">حَتَّىٰ زُرْتُمُ الْمَقَابِرَ﴿٢﴾</string>
+    <string name="attakatsur_ayat3">كَلَّا سَوْفَ تَعْلَمُونَ﴿٣﴾</string>
+    <string name="attakatsur_ayat4">ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ﴿٤﴾</string>
+    <string name="attakatsur_ayat5">كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ﴿٥﴾</string>
+    <string name="attakatsur_ayat6">لَتَرَوُنَّ الْجَحِيمَ﴿٦﴾</string>
+    <string name="attakatsur_ayat7">ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ﴿٧﴾</string>
+    <string name="attakatsur_ayat8">ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ﴿٨﴾</string>
+ 
+    <!-- Activity Arti At Takatsur -->
+    <string name="attakatsur_arti1">Bermegah-megahan telah melalaikan kamu,</string>
+    <string name="attakatsur_arti2">sampai kamu masuk ke dalam kubur.</string>
+    <string name="attakatsur_arti3">Janganlah begitu, kelak kamu akan mengetahui (akibat perbuatanmu itu),</string>
+    <string name="attakatsur_arti4">dan janganlah begitu, kelak kamu akan mengetahui.</string>
+    <string name="attakatsur_arti5">Janganlah begitu, jika kamu mengetahui dengan pengetahuan yang yakin,</string>
+    <string name="attakatsur_arti6">niscaya kamu benar-benar akan melihat neraka Jahiim,</string> 
+    <string name="attakatsur_arti7">dan sesungguhnya kamu benar-benar akan melihatnya dengan ainul yaqin.</string> 
+    <string name="attakatsur_arti8">kemudian kamu pasti akan ditanyai pada hari itu tentang kenikmatan (yang kamu megah-megahkan di dunia itu).</string> 
+    
+     <!-- Activity Ayat Al Qariah -->
+     <string name="surat_alqaariah">Surat Al Qaariah</string>
+    <string name="alqaariah_ayat1">الْقَارِعَةُ﴿١﴾</string>
+    <string name="alqaariah_ayat2">مَا الْقَارِعَةُ﴿٢﴾</string>
+    <string name="alqaariah_ayat3">وَمَا أَدْرَاكَ مَا الْقَارِعَةُ﴿٣﴾</string>
+    <string name="alqaariah_ayat4">يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ﴿٤﴾</string>
+    <string name="alqaariah_ayat5">وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ﴿٥﴾</string>
+    <string name="alqaariah_ayat6">فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ﴿٦﴾</string>
+    <string name="alqaariah_ayat7">فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ﴿٧﴾</string>
+    <string name="alqaariah_ayat8">وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ﴿٨﴾</string>
+    <string name="alqaariah_ayat9">فَأُمُّهُ هَاوِيَةٌ﴿٩﴾</string>
+    <string name="alqaariah_ayat10">وَمَا أَدْرَاكَ مَا هِيَهْ﴿١٠﴾</string>
+    <string name="alqaariah_ayat11">نَارٌ حَامِيَةٌ﴿١١﴾</string>
+    
+ 
+    <!-- Activity Arti Al Qariah -->
+    <string name="alqaariah_arti1">Hari Kiamat,</string>
+    <string name="alqaariah_arti2">apakah hari Kiamat itu?</string>
+    <string name="alqaariah_arti3">Tahukah kamu apakah hari Kiamat itu?</string>
+    <string name="alqaariah_arti4">Pada hari itu manusia adalah seperti anai-anai yang bertebaran,</string>
+    <string name="alqaariah_arti5">dan gunung-gunung adalah seperti bulu yang dihambur-hamburkan.</string>
+    <string name="alqaariah_arti6">Dan adapun orang-orang yang berat timbangan (kebaikan)nya,</string> 
+    <string name="alqaariah_arti7">maka dia berada dalam kehidupan yang memuaskan.</string> 
+    <string name="alqaariah_arti8">Dan adapun orang-orang yang ringan timbangan (kebaikan)nya,</string> 
+     <string name="alqaariah_arti9">maka tempat kembalinya adalah neraka Hawiyah.</string> 
+      <string name="alqaariah_arti10">Tahukah kamu apakah neraka Hawiyah itu?</string> 
+       <string name="alqaariah_arti11">(Yaitu) api yang sangat panas.</string> 
+                   
+    <!-- Activity Ayat Al Aadiyat -->
+     <string name="surat_alaadiyat">Surat Al Aadiyat</string>
+    <string name="alaadiyat_ayat1"> وَالْعَادِيَاتِ ضَبْحًا﴿١﴾</string>
+    <string name="alaadiyat_ayat2">فَالْمُورِيَاتِ قَدْحًا﴿٢﴾</string>
+    <string name="alaadiyat_ayat3">فَالْمُغِيرَاتِ صُبْحًا﴿٣﴾</string>
+    <string name="alaadiyat_ayat4">فَأَثَرْنَ بِهِ نَقْعًا﴿٤﴾</string>
+    <string name="alaadiyat_ayat5">فَوَسَطْنَ بِهِ جَمْعًا﴿٥﴾</string>
+    <string name="alaadiyat_ayat6">إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ﴿٦﴾</string>
+    <string name="alaadiyat_ayat7">وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ﴿٧﴾</string>
+    <string name="alaadiyat_ayat8">وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ﴿٨﴾</string>
+    <string name="alaadiyat_ayat9">أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ﴿٩﴾</string>
+    <string name="alaadiyat_ayat10">وَحُصِّلَ مَا فِي الصُّدُورِ﴿١٠﴾</string>
+    <string name="alaadiyat_ayat11">إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ﴿١١﴾</string>
+    
+ 
+    <!-- Activity Arti Al Aadiyat -->
+    <string name="alaadiyat_arti1">Demi kuda perang yang berlari kencang dengan terengah-engah,</string>
+    <string name="alaadiyat_arti2">dan kuda yang mencetuskan api dengan pukulan (kuku kakinya),</string>
+    <string name="alaadiyat_arti3">dan kuda yang menyerang dengan tiba-tiba di waktu pagi,</string>
+    <string name="alaadiyat_arti4">maka ia menerbangkan debu,</string>
+    <string name="alaadiyat_arti5">dan menyerbu ke tengah-tengah kumpulan musuh,</string>
+    <string name="alaadiyat_arti6">sesungguhnya manusia itu sangat ingkar, tidak berterima kasih kepada Tuhannya,</string> 
+    <string name="alaadiyat_arti7">dan sesungguhnya manusia itu menyaksikan (sendiri) keingkarannya,</string> 
+    <string name="alaadiyat_arti8">dan sesungguhnya dia sangat bakhil karena cintanya kepada harta.</string> 
+     <string name="alaadiyat_arti9">Maka apakah dia tidak mengetahui apabila dibangkitkan apa yang ada di dalam kubur,</string> 
+      <string name="alaadiyat_arti10">dan dilahirkan apa yang ada di dalam dada,</string> 
+       <string name="alaadiyat_arti11">sesungguhnya Tuhan mereka pada hari itu Maha Mengetahui keadaan mereka.</string>     
+      
+        <!-- Activity Ayat Al Zalzalah -->
+     <string name="surat_alzalzalah">Surat Al Zalzalah</string>
+    <string name="alzalzalah_ayat1">إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا﴿١﴾</string>
+    <string name="alzalzalah_ayat2">وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا﴿٢﴾</string>
+    <string name="alzalzalah_ayat3">وَقَالَ الْإِنْسَانُ مَا لَهَا﴿٣﴾</string>
+    <string name="alzalzalah_ayat4">يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا﴿٤﴾</string>
+    <string name="alzalzalah_ayat5">بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا﴿٥﴾</string>
+    <string name="alzalzalah_ayat6">يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ﴿٦﴾</string>
+    <string name="alzalzalah_ayat7">فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ﴿٧﴾</string>
+    <string name="alzalzalah_ayat8">وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ﴿٨﴾</string>
+     
+     <!-- Activity Arti Al Zalzalah -->
+    <string name="alzalzalah_arti1">Apabila bumi digoncangkan dengan goncangan (yang dahsyat),</string>
+    <string name="alzalzalah_arti2">dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,</string>
+    <string name="alzalzalah_arti3">dan manusia bertanya: "Mengapa bumi (menjadi begini)?",</string>
+    <string name="alzalzalah_arti4">pada hari itu bumi menceritakan beritanya,</string>
+    <string name="alzalzalah_arti5">karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) kepadanya.</string>
+    <string name="alzalzalah_arti6">Pada hari itu manusia ke luar dari kuburnya dalam keadaan bermacam-macam, supaya diperlihatkan kepada mereka (balasan) pekerjaan mereka,</string> 
+    <string name="alzalzalah_arti7">Barangsiapa yang mengerjakan kebaikan seberat dzarrahpun, niscaya dia akan melihat (balasan)nya.</string> 
+    <string name="alzalzalah_arti8">Dan barangsiapa yang mengerjakan kejahatan sebesar dzarrahpun, niscaya dia akan melihat (balasan)nya pula.</string> 
+
+      <!-- Activity Ayat Al Bayyinah-->
+     <string name="surat_albayyinah">Surat Al Bayyinah</string>
+    <string name="albayyinah_ayat1">لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنْفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ الْبَيِّنَةُ﴿١﴾</string>
+    <string name="albayyinah_ayat2">رَسُولٌ مِنَ اللَّهِ يَتْلُو صُحُفًا مُطَهَّرَةً﴿٢﴾</string>
+    <string name="albayyinah_ayat3">فِيهَا كُتُبٌ قَيِّمَةٌ﴿٣﴾</string>
+    <string name="albayyinah_ayat4">وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ﴿٤﴾</string>
+    <string name="albayyinah_ayat5">وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ﴿٥﴾</string>
+    <string name="albayyinah_ayat6">إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ﴿٦﴾</string>
+    <string name="albayyinah_ayat7">إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ﴿٧﴾</string>
+    <string name="albayyinah_ayat8">جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ﴿٨﴾</string>
+     
+     <!-- Activity Arti Al Bayyinah -->
+    <string name="albayyinah_arti1">Orang-orang kafir yakni ahli Kitab dan orang-orang musyrik (mengatakan bahwa mereka) tidak akan meninggalkan (agamanya) sebelum datang kepada mereka bukti yang nyata,</string>
+    <string name="albayyinah_arti2">(yaitu) seorang Rasul dari Allah (Muhammad) yang membacakan lembaran-lembaran yang disucikan (Al Quran),</string>
+    <string name="albayyinah_arti3">di dalamnya terdapat (isi) Kitab-kitab yang lurus.</string>
+    <string name="albayyinah_arti4">Dan tidaklah berpecah belah orang-orang yang didatangkan Al Kitab (kepada mereka) melainkan sesudah datang kepada mereka bukti yang nyata.</string>
+    <string name="albayyinah_arti5">Padahal mereka tidak disuruh kecuali supaya menyembah Allah dengan memurnikan ketaatan kepada-Nya dalam (menjalankan) agama yang lurus, dan supaya mereka mendirikan shalat dan menunaikan zakat; dan yang demikian itulah agama yang lurus.</string>
+    <string name="albayyinah_arti6">Sesungguhnya orang-orang yang kafir yakni ahli Kitab dan orang-orang yang musyrik (akan masuk) ke neraka Jahannam; mereka kekal di dalamnya. Mereka itu adalah seburuk-buruk makhluk.</string> 
+    <string name="albayyinah_arti7">Sesungguhnya orang-orang yang beriman dan mengerjakan amal saleh, mereka itu adalah sebaik-baik makhluk.</string> 
+    <string name="albayyinah_arti8">Balasan mereka di sisi Tuhan mereka ialah surga Adn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Allah ridha terhadap mereka dan merekapun ridha kepada-Nya. Yang demikian itu adalah (balasan) bagi orang yang takut kepada Tuhannya.</string> 
+              
+   <!-- Activity Ayat Al Qadr -->
+     <string name="surat_alqadr">Surat Al Qadr</string>
+      <string name="alqadr_ayat1">إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ﴿١﴾</string>
+       <string name="alqadr_ayat2">وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ﴿٢﴾</string>
+        <string name="alqadr_ayat3">لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ﴿٣﴾</string>
+         <string name="alqadr_ayat4">تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرٍ﴿٤﴾</string>
+          <string name="alqadr_ayat5">سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ﴿٥﴾</string>
+     
+     <!-- Activity Arti alqadr -->
+    <string name="alqadr_arti1">Sesungguhnya Kami telah menurunkannya (Al Quran) pada malam kemuliaan.</string>
+    <string name="alqadr_arti2">Dan tahukah kamu apakah malam kemuliaan itu?</string>
+    <string name="alqadr_arti3">Malam kemuliaan itu lebih baik dari seribu bulan.</string>
+    <string name="alqadr_arti4">Pada malam itu turun malaikat-malaikat dan malaikat Jibril dengan izin Tuhannya untuk mengatur segala urusan.</string>
+    <string name="alqadr_arti5">Malam itu (penuh) kesejahteraan sampai terbit fajar.</string>
+    
+      <!-- Activity Ayat Al Alaq -->
+     <string name="surat_alalaq">Surat Al Alaq</string>
+    <string name="alalaq_ayat1">  اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ﴿١﴾</string>
+    <string name="alalaq_ayat2">خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ﴿٢﴾</string>
+    <string name="alalaq_ayat3">اقْرَأْ وَرَبُّكَ الْأَكْرَمُ﴿٣﴾</string>
+    <string name="alalaq_ayat4">الَّذِي عَلَّمَ بِالْقَلَمِ﴿٤﴾</string>
+    <string name="alalaq_ayat5">عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ﴿٥﴾</string>
+    <string name="alalaq_ayat6">كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ﴿٦﴾</string>
+    <string name="alalaq_ayat7">أَنْ رَآهُ اسْتَغْنَىٰ﴿٧﴾</string>
+    <string name="alalaq_ayat8">إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ﴿٨﴾</string>
+    <string name="alalaq_ayat9">أَرَأَيْتَ الَّذِي يَنْهَىٰ﴿٩﴾</string>
+    <string name="alalaq_ayat10">عَبْدًا إِذَا صَلَّىٰ﴿١٠﴾</string>
+    <string name="alalaq_ayat11">أَرَأَيْتَ إِنْ كَانَ عَلَى الْهُدَىٰ﴿١١﴾</string>
+  <string name="alalaq_ayat12">أَوْ أَمَرَ بِالتَّقْوَىٰ﴿١٢﴾</string>
+  <string name="alalaq_ayat13">أَرَأَيْتَ إِنْ كَذَّبَ وَتَوَلَّىٰ﴿١٣﴾</string>
+  <string name="alalaq_ayat14">أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَىٰ﴿١٤﴾</string>
+  <string name="alalaq_ayat15">كَلَّا لَئِنْ لَمْ يَنْتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ﴿١٥﴾</string>
+   <string name="alalaq_ayat16">نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ﴿١٦﴾</string>
+  <string name="alalaq_ayat17">فَلْيَدْعُ نَادِيَهُ﴿١٧﴾</string>
+  <string name="alalaq_ayat18">سَنَدْعُ الزَّبَانِيَةَ﴿١٨﴾</string>
+  <string name="alalaq_ayat19">كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩﴿١٩﴾</string>
+     
+    <!-- Activity Arti Al Alaq -->
+    <string name="alalaq_arti1">Bacalah dengan (menyebut) nama Tuhanmu Yang menciptakan,</string>
+    <string name="alalaq_arti2">Dia telah menciptakan manusia dari segumpal darah.</string>
+    <string name="alalaq_arti3">Bacalah, dan Tuhanmulah Yang Maha Pemurah,</string>
+    <string name="alalaq_arti4">Yang mengajar (manusia) dengan perantaran kalam,</string>
+    <string name="alalaq_arti5">Dia mengajar kepada manusia apa yang tidak diketahuinya.</string>
+    <string name="alalaq_arti6">Ketahuilah! Sesungguhnya manusia benar-benar melampaui batas,</string> 
+    <string name="alalaq_arti7">karena dia melihat dirinya serba cukup.</string> 
+    <string name="alalaq_arti8">Sesungguhnya hanya kepada Tuhanmulah kembali(mu).</string> 
+     <string name="alalaq_arti9">Bagaimana pendapatmu tentang orang yang melarang,</string> 
+      <string name="alalaq_arti10">seorang hamba ketika mengerjakan shalat,</string> 
+       <string name="alalaq_arti11">bagaimana pendapatmu jika orang yang melarang itu berada di atas kebenaran,</string>     
+      <string name="alalaq_arti12">atau dia menyuruh bertakwa (kepada Allah)?</string>     
+      <string name="alalaq_arti13">Bagaimana pendapatmu jika orang yang melarang itu mendustakan dan berpaling?</string>     
+       <string name="alalaq_arti14">Tidaklah dia mengetahui bahwa sesungguhnya Allah melihat segala perbuatannya?</string>     
+      <string name="alalaq_arti15">Ketahuilah, sungguh jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya,</string>     
+       <string name="alalaq_arti16">(yaitu) ubun-ubun orang yang mendustakan lagi durhaka.</string>     
+       <string name="alalaq_arti17">Maka biarlah dia memanggil golongannya (untuk menolongnya),</string>     
+       <string name="alalaq_arti18">kelak Kami akan memanggil malaikat Zabaniyah,</string>     
+      <string name="alalaq_arti19">sekali-kali jangan, janganlah kamu patuh kepadanya; dan sujudlah dan dekatkanlah (dirimu kepada Tuhan).</string>     
+     
+       <color name="putih">#ffffff</color>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

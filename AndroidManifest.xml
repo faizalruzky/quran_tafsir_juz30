@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.faizalruzky.tafsir"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="8" 
+        android:targetSdkVersion="16" />
+
+    <application
+         android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" 
+      >
+       <!--  android:theme="@style/AppTheme">-->
+        <activity
+            android:name="com.faizalruzky.tafsir.tafsirActivity"
+            android:label="@string/app_name" 
+            >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" >
+                </action>
+
+                <category android:name="android.intent.category.LAUNCHER" >
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.exit" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.listsurat" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.materi" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.annas" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.alfalaq" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.list_tafsir_ibnkathir" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.tafsiribnkathir_annas" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.aladiyat" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.alalaq" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.alashr" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.albayyinah" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.alfiil" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.alhumazah" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.alikhlas" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.alkafirun" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.alkautsar" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.allahab" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.almaun" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.alqadr" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.alqariah" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.alquraisy" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.alzalzalah" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.annasr" >
+        </activity>
+        <activity android:name="com.faizalruzky.tafsir.attakatsur" >
+        </activity>
+         <activity android:name="com.faizalruzky.tafsir.pilihantafsir" >
+        </activity>
+            <activity android:name="com.faizalruzky.tafsir.tafsir_ibnkathir_annas" >
+        </activity>
+           <activity android:name="com.faizalruzky.tafsir.tafsiribnkathir_alfalaq" >
+        </activity>
+        
+               <activity android:name="com.faizalruzky.tafsir.Test" >
+        </activity>
+         
+          <activity android:name="com.faizalruzky.tafsir.Kamus" >
+        </activity>
+       
+        
+          
+        <activity
+            android:name="com.faizalruzky.tafsir.ArtiActivity"
+            android:label="@string/title_activity_penjelasan" >
+        </activity>
+        <!-- About -->
+        <activity
+            android:name=".About"
+            android:parentActivityName="com.faizalruzky.tafsir.tafsirActivity" >
+        </activity>
+
+        <!-- Help -->
+        <activity
+            android:name=".Help"
+            android:parentActivityName="com.faizalruzky.tafsir.tafsirActivity" >
+        </activity>
+           </application>
+
+</manifest>
